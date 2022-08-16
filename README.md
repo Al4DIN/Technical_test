@@ -1,2 +1,4 @@
 # Technical_test
-Unsupervised learning real world problem 
+Unsupervised learning for a real world problem
+
+We just have to execute cells 😃
